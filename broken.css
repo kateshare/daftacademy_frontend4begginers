@@ -1,0 +1,28 @@
+.page-header {
+  width: 25%;
+  height: 50vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.page-footer {
+  width: 25%;
+  height: 50vh;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.page-content {
+  margin-left: 250px;
+  position: relative;
+  top: 0;
+  float: left;
+  height: auto;
+  width: 75%;
+}
+
+ul {
+  list-style: none;
+}
